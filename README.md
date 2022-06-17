@@ -1,4 +1,4 @@
-# SqlGetTablesSize
+# Sql Get Tables Size
 TOOLS - How to Sql GetT ables Size
 
 ```
